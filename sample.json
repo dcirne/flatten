@@ -1,0 +1,18 @@
+{
+   "isbn":"123-456-222",
+   "author":{
+      "lastname":"Doe",
+      "firstname":"Jane"
+   },
+   "editor":{
+      "lastname":"Smith",
+      "firstname":"Jane"
+   },
+   "title":"The Ultimate Book in the Universe",
+   "category":[
+      "Non-Fiction",
+      "Technology"
+   ],
+   "price":3.14,
+   "Number of pages":42
+}

@@ -1,0 +1,9 @@
+[
+    {
+        "name":"author.lastname"
+    },
+    {
+        "name":"genre",
+        "default":"Unknown"
+    }
+]
